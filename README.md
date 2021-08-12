@@ -1,7 +1,7 @@
 # Sample-Spring-Core
 
 ## Documentation
- *[Official-docs](https://spring.io/projects/spring-framework)
+ * [Official-docs](https://spring.io/projects/spring-framework)
  
 ## Websites for Reference
   * [W1-Spring-core](https://www.javatpoint.com/spring-tutorial)
